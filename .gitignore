@@ -1,3 +1,7 @@
 ### Python binaries
 *.pyc
 *.pyo
+# Other
+dist/
+/*.egg-info
+venv

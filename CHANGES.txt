@@ -1,0 +1,2 @@
+v1.0.0, 24/05/2018 -- First commit
+v1.0.1, 14/06/2018 -- Filled some fields on setup
